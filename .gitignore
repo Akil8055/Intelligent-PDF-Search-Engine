@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# project runtime data
+/data/uploads/
+/data/*.bin
+/data/*.pkl
